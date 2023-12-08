@@ -7,3 +7,5 @@
 https://github.com/gdzg/UndermineMod/releases/download/v3.0.0.6/UndermineMod.rar
 # Usage
 unzip it to ``<your steam apps folder>\UnderMine\`` and replace them.
+# Note
+* If you encounter an error, find ``C:\Users\<your username>\AppData\LocalLow\Thorium Entertainment\UnderMine\Player.log`` and send it to ``uuUcC2im@163.com`` via email.
